@@ -15,7 +15,7 @@ The backend automatically creates `alpha_nexus.db` (SQLite).
 
 Set environment variables before starting:
 
-WHATSAPP_URL="https://chat.whatsapp.com/YOUR_INVITE_OR_CHANNEL_LINK"
+WHATSAPP_URL="https://chat.whatsapp.com/GZ3XGKW1hylF1G5z3aXRU6"
 DISCORD_URL="https://discord.gg/YOUR_INVITE"
 
 Example:
